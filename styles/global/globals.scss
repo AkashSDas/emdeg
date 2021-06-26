@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+// *,
+// html {
+//   margin: 0;
+//   padding: 0;
+//   box-sizing: border-box;
+// }
+
+$color-1: #ffe1d1;
+$color-2: #ffdbca;
+
+// :root {
+//     /* BASE COLORS */
+//     --color-1:  #ffe1d1;
+//     --color-2: #ffdbca;
+// }
+
+/* CSS best practices 
+
+    Box (position, display, width, margin, etc.)
+    Text
+    Background
+    Border
+    Other (Alphabetically)
+*/
+
+body {
+  font-family: "Bree Serif", serif;
+  // background: linear-gradient(to left, $color-1, $color-2);
+  // overflow: hidden;
+}
